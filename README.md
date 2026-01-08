@@ -16,7 +16,8 @@ The system is fully localized for Arabic users (RTL) and features a modern, resp
 
 | Dashboard (Light) | Dark Mode |
 |:---:|:---:|
-| ![Dashboard Light](https://via.placeholder.com/400x200?text=Dashboard+Light) | ![Dark Mode](https://via.placeholder.com/400x200?text=Dark+Mode+UI) |
+| ![Dashboard Light]![Uploading image.png…]()
+ | ![Dark Mode](https://via.placeholder.com/400x200?text=Dark+Mode+UI) |
 
 ---
 
