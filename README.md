@@ -11,13 +11,11 @@
 The system is fully localized for Arabic users (RTL) and features a modern, responsive design with built-in dark mode.
 
 ---
-
 ## 📸 Screenshots
 
 | Dashboard (Light) | Dark Mode |
 |:---:|:---:|
-| ![Dashboard Light]![Uploading image.png…]()
- | ![Dark Mode](https://via.placeholder.com/400x200?text=Dark+Mode+UI) |
+| ![Dashboard Light](screenshots/dashboard-light.png) | ![Dark Mode](screenshots/dashboard-dark.png) |
 
 ---
 
